@@ -1,0 +1,68 @@
+{
+"users": {
+    "user1": {
+    "name": "Alice",
+    "locked": "false",
+    "lastInteraction": "2024-01-01 00:00:00",
+    "email": "alice@example.com",
+    "assignedTrainingUnits": [
+        {
+            "unitId": "unit1",
+            "title": "Workplace Safety Basics",
+            "progress": {
+                "status": "completed",
+                "completedPercentage": 100,
+                "completionDate": "2024-05-01",
+                "score": 95
+            }
+        },
+        {
+            "unitId": "unit2",
+            "title": "Advanced Workplace Safety Quiz",
+            "progress": {
+                "status": "In Progress",
+                "completedPercentage": 60,
+                "timeStamp": "5:13"
+            }
+        },
+        {
+            "unitId": "unit4",
+            "title": "Gift Aid Quiz",
+            "progress": {
+                "status": "In Progress",
+                "completedPercentage": 60,
+                "timeStamp": "5:13"
+            }
+        }
+    ]
+    },
+    "user2": {
+    "name": "Bob",
+    "locked": "false",
+    "lastInteraction": "2024-01-01 00:00:00",
+    "email": "bob@example.com",
+    "assignedTrainingUnits": [
+        {
+            "unitId": "unit1",
+            "title": "Workplace Safety Basics",
+            "progress": {
+                "status": "Completed",
+                "completedPercentage": 100,
+                "completionDate": "2024-04-25",
+                "score": 88
+            }
+        },
+        {
+            "unitId": "unit3",
+            "title": "Using Gift Aid",
+            "progress": {
+                "status": "Not Started",
+                "completedPercentage": 0,
+                "timeStamp": "00:00"
+            }
+        }
+    ]
+    }
+}
+}
+  

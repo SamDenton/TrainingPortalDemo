@@ -1,0 +1,106 @@
+{
+  "units": [
+    {
+      "type": "video",
+      "name": "Workplace Safety Basics",
+      "id": "unit1",
+      "approxLength": "15 minutes",
+      "difficultyRating": 1,
+      "section": "Workplace Safety",
+      "subSection": "Introduction",
+      "videos": [
+        {
+          "title": "Safety at Work - Part 1",
+          "url": "https://example.com/video1.mp4"
+        },
+        {
+          "title": "Safety at Work - Part 2",
+          "url": "https://example.com/video2.mp4"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "name": "Using Gift Aid",
+      "id": "unit3",
+      "approxLength": "20 minutes",
+      "difficultyRating": 2,
+      "section": "Gift Aid",
+      "subSection": "Introduction",
+      "videos": [
+        {
+          "title": "Creating a Batch",
+          "url": "https://example.com/video1.mp4"
+        },
+        {
+          "title": "Subbmitting a Batch",
+          "url": "https://example.com/video2.mp4"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "name": "Advanced Workplace Safety Quiz",
+      "id": "unit2",
+      "approxLength": "20 minutes",
+      "difficultyRating": 2,
+      "section": "Workplace Safety",
+      "subSection": "Advanced Topics",
+      "quiz": [
+        {
+          "question": "What is the first step in responding to an emergency?",
+          "options": [
+            "Call for help",
+            "Evacuate the area",
+            "Assess the situation",
+            "Check for injuries"
+          ],
+          "correctOption": 2
+        },
+        {
+          "question": "What is the recommended evacuation route?",
+          "options": [
+            "Through the main entrance",
+            "Through the nearest fire exit",
+            "To the rooftop",
+            "To the parking lot"
+          ],
+          "correctOption": 1
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "name": "Gift Aid Quiz",
+      "id": "unit4",
+      "approxLength": "30 minutes",
+      "difficultyRating": 2,
+      "section": "Gift Aid",
+      "subSection": "Advanced",
+      "quiz": [
+        {
+          "question": "How long do users have to wait before submitting a batch?",
+          "options": [
+            "24 hours",
+            "48 hours",
+            "7 days",
+            "14 days",
+            "21 days",
+            "30 days"
+          ],
+          "correctOption": 4
+        },
+        {
+          "question": "Where do users set their HMRC password?",
+          "options": [
+            "On BHO",
+            "On their till",
+            "On HMRCs website"
+          ],
+          "correctOption": 0
+        }
+      ]
+    }
+  ]
+}
+  
